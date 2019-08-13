@@ -1,8 +1,8 @@
 # ssh_telnet_access_grapher
 Display attacks against your server in a graphic CIDR block representation (test logged 76000 attacks originating from 10804 unique IPs, duplicate lines removed).
 
-![alt text](https://raw.githubusercontent.com/ran-sama/ssh_telnet_access_grapher/master/example_updated.png)
-![alt text](https://raw.githubusercontent.com/ran-sama/ssh_telnet_access_grapher/master/diagram.png)
+![alt text](https://raw.githubusercontent.com/ran-sama/ssh_telnet_access_grapher/master/images/example_updated.png)
+![alt text](https://raw.githubusercontent.com/ran-sama/ssh_telnet_access_grapher/master/images/diagram.png)
 
 ## Build the ipv4-heatmap binary:
 ```
